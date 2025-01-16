@@ -1,0 +1,19 @@
+body { margin: 0px; } 
+header { 
+    display: flex; 
+    justify-content: space-between; 
+    background-color: red; 
+    width: 100%; له 
+}
+nav a{ 
+    padding: 10px 15px; 
+    col
+    float: right; 
+} 
+nav a:hover{ 
+    background-color: grey; 
+} 
+.banner{
+     float:left; 
+    color: rgb(238, 241, 4);
+ }
